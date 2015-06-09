@@ -1,0 +1,1925 @@
+fileFormatVersion: 2
+guid: 7266cbcc384b54145901f79d65d8aedd
+timeCreated: 1431999405
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle0-0
+    21300002: idle0-1
+    21300004: idle0-2
+    21300006: idle0-3
+    21300008: idle0-4
+    21300010: idle0-5
+    21300012: idle0-6
+    21300014: idle0-7
+    21300016: idle0-8
+    21300018: idle0-9
+    21300020: idle0-10
+    21300022: idle0-11
+    21300024: idle0-12
+    21300026: idle0-13
+    21300028: idle0-14
+    21300030: idle0-15
+    21300032: idle0-16
+    21300034: idle0-17
+    21300036: idle0-18
+    21300038: idle0-19
+    21300040: idle0-20
+    21300042: idle0-21
+    21300044: 2d character_22
+    21300046: 2d character_23
+    21300048: run-18
+    21300050: run-19
+    21300052: run-20
+    21300054: run-21
+    21300056: run-22
+    21300058: run-23
+    21300060: run-24
+    21300062: run-25
+    21300064: run-26
+    21300066: dying-0
+    21300068: dying-1
+    21300070: dying-2
+    21300072: dying-3
+    21300074: dying-4
+    21300076: dying-5
+    21300078: dying-6
+    21300080: dying-7
+    21300082: dying-8
+    21300084: run-0
+    21300086: run-1
+    21300088: run-2
+    21300090: run-3
+    21300092: run-4
+    21300094: run-5
+    21300096: run-6
+    21300098: run-7
+    21300100: run-8
+    21300102: JumpEnd-0
+    21300104: JumpEnd-1
+    21300106: JumpEnd-2
+    21300108: JumpEnd-3
+    21300110: JumpEnd-4
+    21300112: 2d character_56
+    21300114: 2d character_57
+    21300116: 2d character_58
+    21300118: 2d character_59
+    21300120: run-9
+    21300122: run-10
+    21300124: run-11
+    21300126: run-12
+    21300128: run-13
+    21300130: run-14
+    21300132: run-15
+    21300134: run-16
+    21300136: run-17
+    21300138: jump-0
+    21300140: jump-1
+    21300142: jump-2
+    21300144: jump-3
+    21300146: jump-4
+    21300148: 2d character_74
+    21300150: 2d character_75
+    21300152: 2d character_76
+    21300154: 2d character_77
+    21300156: 2d character_78
+    21300158: 2d character_79
+    21300160: 2d character_80
+    21300162: 2d character_81
+    21300164: 2d character_82
+    21300166: 2d character_83
+    21300168: 2d character_84
+    21300170: 2d character_85
+    21300172: 2d character_86
+    21300174: 2d character_87
+    21300176: 2d character_88
+    21300178: 2d character_89
+    21300180: 2d character_90
+    21300182: 2d character_91
+    21300184: 2d character_92
+    21300186: 2d character_93
+    21300188: 2d character_94
+    21300190: 2d character_95
+    21300192: 2d character_96
+    21300194: 2d character_97
+    21300196: 2d character_98
+    21300198: 2d character_99
+    21300200: 2d character_100
+    21300202: 2d character_101
+    21300204: 2d character_102
+    21300206: 2d character_103
+    21300208: 2d character_104
+    21300210: 2d character_105
+    21300212: flyingUp-0
+    21300214: flyingUp-1
+    21300216: flyingUp-2
+    21300218: flyingTop-0
+    21300220: flyingTop-1
+    21300222: flyingTop-2
+    21300224: flyingTop-3
+    21300226: flyingTop-4
+    21300228: flyingTop-5
+    21300230: flyingTop-6
+    21300232: flyingTop-7
+    21300234: flyingTop-8
+    21300236: flyingDown-0
+    21300238: flyingDown-1
+    21300240: flyingDown-2
+    21300242: 2d character_121
+    21300244: 2d character_122
+    21300246: 2d character_123
+    21300248: 2d character_124
+    21300250: 2d character_125
+    21300252: 2d character_126
+    21300254: 2d character_127
+    21300256: 2d character_128
+    21300258: 2d character_129
+    21300260: 2d character_130
+    21300262: 2d character_131
+    21300264: 2d character_132
+    21300266: 2d character_133
+    21300268: 2d character_134
+    21300270: 2d character_135
+    21300272: 2d character_136
+    21300274: 2d character_137
+    21300276: 2d character_138
+    21300278: 2d character_139
+    21300280: 2d character_140
+    21300282: 2d character_141
+    21300284: 2d character_142
+    21300286: 2d character_143
+    21300288: 2d character_144
+    21300290: 2d character_145
+    21300292: 2d character_146
+    21300294: 2d character_147
+    21300296: 2d character_148
+    21300298: 2d character_149
+    21300300: 2d character_150
+    21300302: 2d character_151
+    21300304: 2d character_152
+    21300306: idle1-0
+    21300308: idle1-1
+    21300310: idle1-2
+    21300312: idle1-3
+    21300314: idle1-4
+    21300316: idle1-5
+    21300318: idle1-6
+    21300320: idle1-7
+    21300322: idle1-8
+    21300324: 2d character_162
+    21300326: 2d character_163
+    21300328: 2d character_164
+    21300330: 2d character_165
+    21300332: 2d character_166
+    21300334: 2d character_167
+    21300336: 2d character_168
+    21300338: 2d character_169
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle0-0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-11
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-14
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-18
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1209
+        width: 82
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle0-21
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1209
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_22
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1209
+        width: 78
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1209
+        width: 90
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1033
+        width: 121
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1032
+        width: 120
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1030
+        width: 121
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1029
+        width: 115
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1026
+        width: 107
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1026
+        width: 105
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1028
+        width: 103
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-25
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1027
+        width: 102
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-26
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1026
+        width: 98
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-0
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1046
+        width: 102
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-1
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1053
+        width: 96
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-2
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1054
+        width: 95
+        height: 121
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-3
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1057
+        width: 99
+        height: 118
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1056
+        width: 100
+        height: 116
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-5
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1051
+        width: 116
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-6
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1059
+        width: 125
+        height: 98
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-7
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1059
+        width: 125
+        height: 98
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dying-8
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1059
+        width: 126
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 876
+        width: 96
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 97
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 878
+        width: 101
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 877
+        width: 104
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 882
+        width: 108
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-5
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 887
+        width: 118
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 884
+        width: 120
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 882
+        width: 112
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-8
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 878
+        width: 103
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JumpEnd-0
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 127
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JumpEnd-1
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 882
+        width: 99
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JumpEnd-2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 877
+        width: 97
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JumpEnd-3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 874
+        width: 93
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JumpEnd-4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 875
+        width: 95
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_56
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 877
+        width: 96
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_57
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 878
+        width: 99
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_58
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 879
+        width: 102
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_59
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 880
+        width: 106
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 735
+        width: 105
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 737
+        width: 106
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 736
+        width: 100
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 96
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 735
+        width: 100
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 737
+        width: 106
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 735
+        width: 108
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 735
+        width: 110
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run-17
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 737
+        width: 114
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump-0
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 109
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump-1
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 706
+        width: 122
+        height: 130
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump-2
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump-3
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 707
+        width: 116
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump-4
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 707
+        width: 110
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_74
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 796
+        width: 48
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_75
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 767
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_76
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 783
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_77
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 767
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_78
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 734
+        width: 41
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_79
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 737
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_80
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 737
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_81
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 733
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_82
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 737
+        width: 37
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_83
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 737
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_84
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 745
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_85
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 737
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_86
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 737
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_87
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 737
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_88
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 737
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 548
+        width: 102
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 543
+        width: 101
+        height: 144
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 552
+        width: 104
+        height: 121
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 553
+        width: 107
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_93
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 543
+        width: 103
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_94
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 543
+        width: 98
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_95
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 552
+        width: 102
+        height: 124
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_96
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 553
+        width: 109
+        height: 123
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_97
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 545
+        width: 123
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_98
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 542
+        width: 129
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_99
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 543
+        width: 130
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_100
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 547
+        width: 118
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_101
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 547
+        width: 115
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_102
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 548
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_103
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 545
+        width: 113
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_104
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 545
+        width: 112
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_105
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 416
+        width: 87
+        height: 177
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingUp-0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 369
+        width: 107
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingUp-1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 371
+        width: 104
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingUp-2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 369
+        width: 105
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-0
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 369
+        width: 106
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 370
+        width: 105
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 369
+        width: 106
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 369
+        width: 106
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-4
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 369
+        width: 107
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-5
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 369
+        width: 107
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-6
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 370
+        width: 110
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-7
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 370
+        width: 112
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingTop-8
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 370
+        width: 116
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingDown-0
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 369
+        width: 114
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingDown-1
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 369
+        width: 115
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flyingDown-2
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 371
+        width: 116
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_121
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 467
+        width: 45
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_122
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 466
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_123
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 448
+        width: 125
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_124
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 435
+        width: 29
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_125
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 432
+        width: 90
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_126
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 435
+        width: 24
+        height: 9
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_127
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 416
+        width: 49
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_128
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 416
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_129
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 419
+        width: 45
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_131
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 213
+        width: 111
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_132
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 213
+        width: 112
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_133
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 120
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_134
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 211
+        width: 114
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_135
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 211
+        width: 116
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_136
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 210
+        width: 113
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_137
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 210
+        width: 106
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_138
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 208
+        width: 97
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_139
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 204
+        width: 93
+        height: 144
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_140
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 112
+        height: 143
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_141
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 205
+        width: 115
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_142
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_143
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 206
+        width: 117
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_144
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 208
+        width: 111
+        height: 138
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_145
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 207
+        width: 108
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_146
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 207
+        width: 108
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_147
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 208
+        width: 111
+        height: 137
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_148
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 33
+        width: 83
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_149
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 84
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_150
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 79
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_151
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 78
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_152
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 31
+        width: 81
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 35
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 35
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 35
+        width: 83
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 35
+        width: 85
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-4
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 35
+        width: 89
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-5
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 35
+        width: 88
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-6
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 35
+        width: 86
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 35
+        width: 83
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1-8
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 35
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_162
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 44
+        width: 87
+        height: 132
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_163
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 44
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_164
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 44
+        width: 87
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_165
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 44
+        width: 85
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_166
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 44
+        width: 86
+        height: 135
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_167
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 86
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_168
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 44
+        width: 87
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d character_169
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 44
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 67b790f92a2eb3d438894f34c4ad1b64
+timeCreated: 1431926473
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2d-ground_0
+    21300002: 2d-ground_1
+    21300004: 2d-ground_2
+    21300006: 2d-ground_3
+    21300008: 2d-ground_4
+    21300010: 2d-ground_5
+    21300012: 2d-ground_6
+    21300014: 2d-ground_7
+    21300016: 2d-ground_8
+    21300018: 2d-ground_9
+    21300020: 2d-ground_10
+    21300022: 2d-ground_11
+    21300024: 2d-ground_12
+    21300026: 2d-ground_13
+    21300028: 2d-ground_14
+    21300030: 2d-ground_15
+    21300032: 2d-ground_16
+    21300034: 2d-ground_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2d-ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 256
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 718
+        width: 256
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 736
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 736
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 256
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 455
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 141
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 62
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2d-ground_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 4
+        width: 212
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
